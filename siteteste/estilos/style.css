@@ -21,3 +21,9 @@ body {
     background-color: #e0dcdc;
     
 }
+hr {
+    border: 0;
+    height: 1px;
+    background-color: #574a4a;
+    margin: 20px 0;
+}
