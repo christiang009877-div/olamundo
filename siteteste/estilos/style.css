@@ -17,13 +17,26 @@ h2 {
     text-align: center;
     color: #302929;
 }
+
+img.curso {
+    float: right;
+}
+
+img.logo {
+    display: block;
+    margin: 20px auto;
+    width: 200px;
+}
+
 body {
-    background-color: #e0dcdc;
+    background-color: #3a6b5b;
     
 }
-hr {
-    border: 0;
-    height: 1px;
-    background-color: #574a4a;
-    margin: 20px 0;
+
+main {
+    background: #e0dcdc;
+    width: 560px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
